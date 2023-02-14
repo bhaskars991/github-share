@@ -1,0 +1,6 @@
+openai
+sreamlit
+streamlit_chat
+langchain
+requests
+sys
