@@ -1,5 +1,5 @@
 openai
-sreamlit
+streamlit
 streamlit_chat
 langchain
 requests
